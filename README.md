@@ -2,4 +2,4 @@
 
 ### Here is a new simplified version of my portfolio.
 
-![Alt text](images/PortfolioPic.png "Title")
+![Alt text](./html5up-spectral/images/PortfolioPic.png "Title")
