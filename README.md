@@ -10,6 +10,12 @@
 <img width="1680" alt="pic4" src="https://user-images.githubusercontent.com/58203830/77613314-698cc780-6ef8-11ea-888c-808f34e6b478.png">
 
 ## Built With
+
+```
 - html5up!
   - I was able to create my portfolio using a simple layout. 
   - I really enjoyed working with this site and look forward to using it more in the future
+- CSS
+-HTML
+-Bootstrap
+```
